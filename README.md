@@ -4,7 +4,6 @@
 
 ### What can you contribute to
 
-- [Your Coding Learning/Journey/projects  ]( https://github.com/umershaikh123/Coding-2023/tree/master/Coding%20Journey%202023)
 - [Blockchain Resources ](https://github.com/umershaikh123/Hacktoberfest/discussions)
 - [Artificial Intelligence Resources](https://github.com/umershaikh123/Coding-2023/tree/master/Artificial%20Intelligence) 
 - [Mobile Development Resources](https://github.com/umershaikh123/Coding-2023/tree/master/Mobile%20app%20Devlepment )
