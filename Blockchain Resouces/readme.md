@@ -34,7 +34,7 @@
 
 ## Blockchain SDKs (Contract Kit):
 
-- Highly recommended SDK : https://thirdweb.com/sdk
+- Highly recommended Web3 FullStack SDK : https://thirdweb.com/sdk
 - Moralis for blockchain Api calls : https://moralis.io
 - Openzeplin Wizards (pre-built contracts): https://docs.openzeppelin.com/contracts/4.x/wizard 
 
