@@ -11,7 +11,9 @@
 
 # Ai dev Tools
 - Langchain : https://github.com/hwchase17/langchain
-- AutoGPT :
+- Auto GPT : https://github.com/Significant-Gravitas/Auto-GPT
+- Private : https://github.com/imartinez/privateGPT
+- AudioGPT : https://github.com/AIGC-Audio/AudioGPT
+- Jarvis : https://github.com/microsoft/JARVIS
 
 
-# Ai Tools
