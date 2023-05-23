@@ -16,4 +16,5 @@
 - AudioGPT : https://github.com/AIGC-Audio/AudioGPT
 - Jarvis : https://github.com/microsoft/JARVIS
 
-
+# Ai Hackathon/community
+- Lab ai : https://lablab.ai/
